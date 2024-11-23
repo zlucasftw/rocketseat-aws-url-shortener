@@ -1,0 +1,6 @@
+[submodule "CreateUrlLambda"]
+	path = CreateUrlLambda
+	url = https://github.com/zlucasftw/rocketseat-aws-url-shortener-create
+[submodule "RedirectUrlShortner"]
+	path = RedirectUrlShortner
+	url = https://github.com/zlucasftw/rocketseat-aws-url-shortener-redirect
